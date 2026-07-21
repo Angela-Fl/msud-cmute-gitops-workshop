@@ -5,6 +5,7 @@
 </picture>
 
 # MSU Denver GitOps Workshop
+TEST WHEE
 
 Deploy a PaperMC Minecraft server to DigitalOcean Kubernetes using GitOps principles.
 
